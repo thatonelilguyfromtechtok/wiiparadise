@@ -112,48 +112,48 @@
         icon: "🏎️",
         image: "/images/games/gamecube/double dash.jpg"
       },
-      { 
+      {
         name: "Super Mario Sunshine", 
         url: "https://pan.huang1111.cn/s/8QGkDUQ", 
         icon: "🌞",
         image: "/images/games/gamecube/super mario sunshine.jpg"
       },
-      { 
+      {
         name: "The Legend of Zelda: Twilight Princess", 
         url: "https://pan.huang1111.cn/s/G89nBsW", 
         icon: "🗡️",
         image: "/images/games/gamecube/twilight princess.jpg"
       },
-      { 
+      {
         name: "Super Smash Bros Melee", 
         url: "https://pan.huang1111.cn/s/5XN9Mcl", 
         icon: "⚔️",
         image: "/images/games/gamecube/mele.jpg"
-      }
-      { 
+      },
+      {
         name: "Need for Speed Carbon", 
         url: "https://pan.huang1111.cn/s/3eK8zhm", 
         icon: "🏎️",
         image: "/images/games/gamecube/nfs carbon.png"
-      }
-      { 
+      },
+      {
         name: "Need for Speed Most Wanted", 
         url: "https://pan.huang1111.cn/s/O8aqNcL", 
         icon: "🏎️",
         image: "/images/games/gamecube/nfs most wanted.png"
-      }
-      { 
+      },
+      {
         name: "Need for Speed Underground", 
         url: "https://pan.huang1111.cn/s/qgEejI3", 
         icon: "🏎️",
         image: "/images/games/gamecube/nfs underground.png"
-      }
-      { 
+      },
+      {
         name: "Need for Speed Underground 2", 
         url: "https://pan.huang1111.cn/s/eNaxaug", 
         icon: "🏎️",
         image: "/images/games/gamecube/nfs underground 2.png"
-      }
+      },
     ],
     tools: [
       { 
